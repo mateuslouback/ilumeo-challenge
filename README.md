@@ -2,6 +2,8 @@
 
 ## **Evolução Temporal de Taxa de Conversão**
 
+<img width="1794" alt="Captura de Tela 2025-05-26 às 20 12 27" src="https://github.com/user-attachments/assets/2c041059-0e70-4706-bd2b-506238a34d47" />
+
 ---
 
 ## **Sumário**
