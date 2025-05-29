@@ -143,6 +143,7 @@ O sistema permite filtrar por período, canal e granularidade temporal (dia, mê
 
 * Docker e Docker Compose instalados
 * Node.js (apenas se quiser rodar fora do Docker)
+* Baixe o arquivo SQL [clicando aqui](https://drive.google.com/file/d/1UMzbIJmNZ06ObOB6ChOqVt6mQvrdwGI7/view?usp=share_link) e coloque-o na raiz da pasta do projeto
 
 ### **2. Subindo tudo via Docker**
 
